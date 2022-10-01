@@ -1,0 +1,6 @@
+/datasets/meta_Musical_Instruments.json.gz
+/datasets/reviews_Musical_Instruments.json.gz
+/datasets/products_df.pkl
+/datasets/reviews_df.pkl
+__pycache__
+.idea
